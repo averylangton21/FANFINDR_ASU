@@ -1,0 +1,18 @@
+{
+  "resourceName": "userProfilePics",
+  "policyUUID": "641f48a8",
+  "bucketName": "fanfindrweb3471227a02f5465cad332f664cc4a783",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "READ",
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger69fd71a5",
+  "groupAccess": {}
+}
